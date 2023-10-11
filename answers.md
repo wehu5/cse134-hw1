@@ -48,3 +48,12 @@ Difficult: There are many similar terms that sound like *Web Accessibility Virtu
 
 -----
 2. One obvious broken feature is the search button located top right of the page. When JS is disabled, clicking the magnifying glass pattern does nothing. Also when the website is shrunk to point when the "topics" such as *ABOUT, ACADEMICS, ADMISSIONS AND AID, etc*, are not displayed and they are only visible if the drop down button is clicked, the drop down button does not show the "topics" with JS disabled.
+
+-----
+3. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\mergescrippsjs.png)
+
+-----
+4. When JS is disabled, all of the contents in the Scripps page are gone, only a blank page is left.
+
+-----
+5. 
