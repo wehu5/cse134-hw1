@@ -56,4 +56,7 @@ Difficult: There are many similar terms that sound like *Web Accessibility Virtu
 4. When JS is disabled, all of the contents in the Scripps page are gone, only a blank page is left.
 
 -----
-5. 
+5. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\mergeuclajs.png)
+
+-----
+6. The website of UCLA is partially functioning when JavaScript is disabled: most of the content are still visible and clickable; clicking to the buttons or links can still redirect the page to the designated page; however, in the middle of the page, the page loses its visuals and leaves a blank in between the contents.
