@@ -41,6 +41,7 @@ Difficult: There are many similar terms that sound like *Web Accessibility Virtu
 **2. UCI:**
 ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\uciresponseheader.png)
 **3. What is troubling about the UCI response HTTP headers?**
+In the server section, it is exposing the server's information. This is an information disclosure issue that could be troubling to the UCI website if someone wants to do something malicious to the page.
 
 -----
 ### Q2 JavaScript Off
@@ -60,3 +61,21 @@ Difficult: There are many similar terms that sound like *Web Accessibility Virtu
 
 -----
 6. The website of UCLA is partially functioning when JavaScript is disabled: most of the content are still visible and clickable; clicking to the buttons or links can still redirect the page to the designated page; however, in the middle of the page, the page loses its visuals and leaves a blank in between the contents.
+
+-----
+### Q3 Custom vs. Default 404 Pages
+1. Yes
+2. Link: https://www.csuci.edu/programs
+3. No
+4. Link: https://jpcatholic.edu/admissions
+5. Users tend to have no idea about what a default 404 page means. They could think that the problem is on their end since the default 404 page is not informative; whereas a custom is way more informative and interactive, as seen from the csuci page. The users then would know what the problem is and continue their browsing on the page.
+
+-----
+### Q4 Search Engines - robots.txt
+1. Yes.
+![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\nytrobotstxt.png)
+2. While robots.txt blocks search engine crawlers, it discloses information about the pages that the owner wants to hide from the others. Then robots.txt can reveal hidden information that is not intended for the public.
+3. The nytimes.com tries to block User-agents: CCBot, Google-Extended, GPTBot, ia_archiver, omgili, omgilibot, and Twitterbot. Such bots attempt to extract contents from the internet to researchers, companies, and individuals for their purposes at no cost. Since NY Times require subscription for its content, such bots are then blocked.
+
+-----
+
