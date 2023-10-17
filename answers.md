@@ -79,3 +79,26 @@ In the server section, it is exposing the server's information. This is an infor
 
 -----
 ### Q5 Search Engines - Google Hacking
+1. Google Hacking Database is a set of Google search queries that can be used to find sensitive or hidden information that is on the web. Individuals or organizations might use this to uncover the vulnerabilities and information that others do not intend to expose.
+2. Google bot is like the bots mentioned in the previous question, such a bot can index content that is private, sensitive, or even "secured" data behind the login screen. It is troubling that it can use Google search to discover such information.
+3. Developers should be aware of such bots and carefully measure the security level required for the web pages, directoris, or files so that confidential data are not exposed. 
+4. The problems in Question 5 are very similar to those from Question 4. Both questions introduce some weaknesses of the current web development that can cause information disclosure and reveal the vulnerability of the data to all of the people who have access to the Internet.
+
+-----
+### Q6 Search Engines - Results Reality Check 
+1. About 2,770,000 results (0.34 seconds).
+2. 
+3. On the first page, Duckduckgo shows results from UCSD itself and some other sites that only try to introduce UCSD in the perspectives of campus lives and academics; whereas Google shows more questions about UCSD on the first page, the rest of the results from Google are forum/conversation based, where people ask and answer about UCSD. The only similarity is that they both include ucsd.edu although there is only one result from ucsd.edu from Google, Duckduckgo has multiple. I don't have a preference for search engines. I switch to others when the one I am using does not provide the results that I am looking for.
+
+-----
+### Q7 Chrome DevTools - JavaScript Console and Local Storage
+1. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\mediumjs.png)
+2. Meidum uses this simple but surprising method to attract talented people to join them.
+3. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\mediumLocalStorage.png)
+I think these values are used for validating my interaction with medium.com, my identity, and my membership of medium.com as there are values such as deviceId, view-count, email, is-logged-in, etc.
+
+-----
+### Q8 Chrome DevTools - Console and Source
+1. The name of the variable is datasetCount.
+2. This message is probably there because the developers wanted to keep track of the number of datasets during developing and testing. Then they forgotto delete this line, or they didn't think that this is a huge problem.
+3. 
