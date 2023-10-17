@@ -78,4 +78,4 @@ In the server section, it is exposing the server's information. This is an infor
 3. The nytimes.com tries to block User-agents: CCBot, Google-Extended, GPTBot, ia_archiver, omgili, omgilibot, and Twitterbot. Such bots attempt to extract contents from the internet to researchers, companies, and individuals for their purposes at no cost. Since NY Times require subscription for its content, such bots are then blocked.
 
 -----
-
+### Q5 Search Engines - Google Hacking
