@@ -13,6 +13,9 @@ Link: https://master--imaginative-starburst-050db0.netlify.app
 - GIF: 1
 - JPG: 2 
 - PNG: 1
+- MP4: 1
+- SVG: 17
+- ICO: 1
 2. Total # of Requests
 28 requests
 3. Total Bytes Sent
@@ -87,7 +90,7 @@ In the server section, it is exposing the server's information. This is an infor
 -----
 ### Q6 Search Engines - Results Reality Check 
 1. About 2,770,000 results (0.34 seconds).
-2. 
+2. I was unable to locate the 500 - 510th URLs for "why ucsd is awesome" as the browser does not order the list of pages.
 3. On the first page, Duckduckgo shows results from UCSD itself and some other sites that only try to introduce UCSD in the perspectives of campus lives and academics; whereas Google shows more questions about UCSD on the first page, the rest of the results from Google are forum/conversation based, where people ask and answer about UCSD. The only similarity is that they both include ucsd.edu although there is only one result from ucsd.edu from Google, Duckduckgo has multiple. I don't have a preference for search engines. I switch to others when the one I am using does not provide the results that I am looking for.
 
 -----
@@ -145,3 +148,34 @@ The oldest version I saw for firefox was v32. My free trial session for v32 has 
 1. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\firefox33.png)
 The website works but the scales and visibilities of texts are off. It is difficult to use.
 2. Since a website cannot support all the browsers from time to time, the site should have a document that lists the browsers and the versions it supports. What we can do is to try our best to make it as compatible as possible to address this problem.
+
+-----
+### Q14 UCSD.edu
+1. *X-Content-Type-Options: nosniff* disables MIME sniffing, which ensures the browser to interpret files as it should be so that XSS attack is reduced.
+2. Cloudfare provides data centers in more than 300 cities all over the world to provide fast internet service by putting data centers closer to people; so when users try to load content from a page, the content does not have to travel across the world to get to the users because it is taking a "long" time even with the speed of light. Instead, the data comes from a "local" server that can reach the user instantly.
+
+-----
+### Q15 Cookies
+1. There are 16 cookies stored on ucsd.edu.
+2. There are 4 different domains shown for the cookies on UCSD.
+3. 
+    1. .linkedin.com
+    2. .myfonts.net
+    3. .youtube.com
+    4. .ucsd.edu
+4. There are 29 cookies stored on sdsu.edu.
+5. There are 13 different domains.
+6. 
+    1. 8a5e7a58-cf02-4302-a62b-bcc1af878097.rlets.com
+    2. .clarity.ms
+    3. .simpli.fi
+    4. .linkedin.com
+    5. .snapchat.com
+    6. .sc-static.net
+    7. .sdsu.edu
+    8. .doubleclick.net
+    9. .www.sdsu.edu
+    10. .youtube.com
+    11. www.clarity.ms
+    12. .google.com
+    13. 66356343.blobal.siteimproveanalytics.io
