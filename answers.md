@@ -101,4 +101,37 @@ I think these values are used for validating my interaction with medium.com, my 
 ### Q8 Chrome DevTools - Console and Source
 1. The name of the variable is datasetCount.
 2. This message is probably there because the developers wanted to keep track of the number of datasets during developing and testing. Then they forgotto delete this line, or they didn't think that this is a huge problem.
-3. 
+3. The console message exposes the number of datasets that ca.gov uses. This can be problematic because it makes it easier for attackers to target a specific dataset for its vulnerbilities such that it can lead to data breach by web scraping.
+
+-----
+### Q9 Chrome DevTools - User-Agent Header
+1. Yes Google renders the pages differently.
+**Default:** ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\default_useragent.png)
+**iPhone:** ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\iphone_useragent.png)
+2. With the default user agent, the page of google.com looks a lot cleaner. As a contrast, the page using an iPhone user agent fills with trending searches.
+
+-----
+### Q10 Chrome DevTools - Extension Header
+- *X-Content-Type-Options: nosniff* disables MIME sniffing, which ensures the browser to interpret files as it should be so that XSS attack is reduced.
+- *X-Download-Options: noopen* prevents the downloaded file to run JS in the current site's context and removes the open button and replaces it with a save button when download
+- *X-Frame-Options: DENY* prevents the page from being displayed in a frame or iframe.
+- *X-Permitted-Cross-Domain-Policies: none* controls how data are shared across domains. Setting it to none prevents certain types of data to be shared.
+- *X-Render-Origin-Server: Render* indicates that the origin server is responsible for rendering the page.
+- *X-XSS-Protection: 0* disables XSS attacking filtering from the browser by setting the value to 0. Such a website can be vulnerable against XSS.
+
+-----
+### Q11 Chrome DevTools - Performance Test
+1. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\ucsdlighthouse.png)
+2. 
+    1. Reduce unused CSS: reduce the use of those redundant rules from stylesheet that comsumed by the network activity. To do this, double check the stylesheet to find out which rules are not used or not necessray.
+    2. Eliminate render-blocking resources: Running some JS code and compiling the CSS styles blocks the page from displaying its first look. As suggested from the audit, consider delivering critical JS/CSS inline and deferring all non-critical JS/styles.
+3. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\sdsclighthouse.png)
+The scores from sdsu.edu are way higher than from ucsd.edu.
+4. UCSD has 57 as the score for performance, whereas SDSU has 74 as the score for performance. UCSD has more work to improve the performance on its page.
+
+-----
+### Q12. Browsers Versions
+1. Chrome Platform Status (Chromium): https://www.chromestatus.com/ \
+Firefox Platform Status (Mozilla): https://github.com/mozilla/platform-status   (there is no actual status page like the other three so far) \
+Edge Platform Status (Microsoft Edge): https://developer.microsoft.com/en-us/microsoft-edge/platform/status/ \
+Safari (Webkit) Feature Status (Apple): https://webkit.org/status/ \
