@@ -96,7 +96,7 @@ In the server section, it is exposing the server's information. This is an infor
 -----
 ### Q7 Chrome DevTools - JavaScript Console and Local Storage
 1. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\mediumjs.png)
-2. Meidum uses this simple but surprising method to attract talented people to join them.
+2. Medium uses this simple but surprising method to attract talented people to join them.
 3. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\mediumLocalStorage.png)
 I think these values are used for validating my interaction with medium.com, my identity, and my membership of medium.com as there are values such as deviceId, view-count, email, is-logged-in, etc.
 
@@ -134,9 +134,9 @@ The scores from sdsu.edu are way higher than from ucsd.edu.
 
 -----
 ### Q12. Browsers Versions
-1. Chrome Platform Status (Chromium): https://www.chromestatus.com/ \
-Firefox Platform Status (Mozilla): https://github.com/mozilla/platform-status   (there is no actual status page like the other three so far) \
-Edge Platform Status (Microsoft Edge): https://developer.microsoft.com/en-us/microsoft-edge/platform/status/ \
+1. Chrome Platform Status (Chromium): https://www.chromestatus.com/
+Firefox Platform Status (Mozilla): https://github.com/mozilla/platform-status   (there is no actual status page like the other three so far)
+Edge Platform Status (Microsoft Edge): https://developer.microsoft.com/en-us/microsoft-edge/platform/status/
 Safari (Webkit) Feature Status (Apple): https://webkit.org/status/
 2. In version 53, Chrome introduced Shadow DOM v1.
 3. The version was released on August 30th, 2016.
@@ -145,7 +145,7 @@ Safari (Webkit) Feature Status (Apple): https://webkit.org/status/
 -----
 ### Q13 Testing Different or Older Browsers
 The oldest version I saw for firefox was v32. My free trial session for v32 has ended before I can see anything, so I was testing on v33.
-1. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\firefox33.png)
+1. ![image](C:\Users\11029\OneDrive\文档\UCSD_Classes\CSE134B\cse134-hw1\firefoxv33.png)
 The website works but the scales and visibilities of texts are off. It is difficult to use.
 2. Since a website cannot support all the browsers from time to time, the site should have a document that lists the browsers and the versions it supports. What we can do is to try our best to make it as compatible as possible to address this problem.
 
