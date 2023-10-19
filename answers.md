@@ -174,8 +174,6 @@ The website works but the scales and visibilities of texts are off. It is diffic
     6. .sc-static.net
     7. .sdsu.edu
     8. .doubleclick.net
-    9. .www.sdsu.edu
-    10. .youtube.com
-    11. www.clarity.ms
-    12. .google.com
-    13. 66356343.blobal.siteimproveanalytics.io
+    9. .youtube.com
+    10. .google.com
+    11. 66356343.blobal.siteimproveanalytics.io
