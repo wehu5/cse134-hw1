@@ -140,7 +140,7 @@ Edge Platform Status (Microsoft Edge): https://developer.microsoft.com/en-us/mic
 Safari (Webkit) Feature Status (Apple): https://webkit.org/status/
 2. In version 53, Chrome introduced Shadow DOM v1.
 3. The version was released on August 30th, 2016.
-4. Google released the non beta version of Chrome on December 11th, 2008 for Windows XP.
+4. Google released the non beta version of Chrome on December 11th, 2008 for Windows XP. Therefore, Dec 11th will be the 15th birthday for Chrome.
 
 -----
 ### Q13 Testing Different or Older Browsers
@@ -156,24 +156,27 @@ The website works but the scales and visibilities of texts are off. It is diffic
 
 -----
 ### Q15 Cookies
-1. There are 16 cookies stored on ucsd.edu.
-2. There are 4 different domains shown for the cookies on UCSD.
+1. There are 79 cookies stored on ucsd.edu.
+2. There are 6 different domains shown for the cookies on UCSD.
 3. 
     1. .linkedin.com
     2. .myfonts.net
     3. .youtube.com
     4. .ucsd.edu
-4. There are 29 cookies stored on sdsu.edu.
-5. There are 13 different domains.
+    5. .ipredictive.com
+    6. .doubleclick.net
+4. There are 49 cookies stored on sdsu.edu.
+5. There are 12 different domains.
 6. 
     1. 8a5e7a58-cf02-4302-a62b-bcc1af878097.rlets.com
     2. .clarity.ms
     3. .simpli.fi
-    4. .linkedin.com
-    5. .snapchat.com
-    6. .sc-static.net
-    7. .sdsu.edu
-    8. .doubleclick.net
-    9. .youtube.com
-    10. .google.com
-    11. 66356343.blobal.siteimproveanalytics.io
+    4. .snapchat.com
+    5. .sc-static.net
+    6. .sdsu.edu
+    7. .doubleclick.net
+    8. .youtube.com
+    9. .google.com
+    10. 66356343.blobal.siteimproveanalytics.io
+    11. .bing.com
+    12. .facebook.com
